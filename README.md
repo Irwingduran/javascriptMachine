@@ -1,1 +1,1 @@
-# javascriptMachine
+# JavaScript-Slot-Machine
